@@ -1,0 +1,3 @@
+1го	Knapsack Problem. There are 5 items that have a value and weight list below,
+ the knapsack can contain at most 100 Lbs. 
+Solve the problem both as fractional knapsack and 0/1 knapsack.

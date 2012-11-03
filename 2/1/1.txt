@@ -1,0 +1,5 @@
+1го	Matrix-chain product. The following are some instances.
+a)	<3, 5, 2, 1,10>
+b)	<2, 7, 3, 6, 10>
+c)	<10, 3, 15, 12, 7, 2>
+d)	<7, 2, 4, 15, 20, 5>

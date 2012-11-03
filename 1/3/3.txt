@@ -1,0 +1,5 @@
+3．	Implement Quicksort and answer the following questions. (1) How many comparisons will Quicksort do on a list of n elements that all have the same value? (2) What are the maximum and minimum number of comparisons will Quicksort do on a list of n elements, give an instance for maximum and minimum case respectively.
+
+Answer:(1)n*(n-1)/2
+		(2)maximum:每次partition均严重不均匀，每次都划分出一个元素的一组___n*(n-1)/2
+			minimum:每次partition都均匀划分，一半一半___nlgn
