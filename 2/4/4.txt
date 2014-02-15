@@ -1,0 +1,2 @@
+4£®	Max Sum. The following is an instance.
+a)	(-2£¬11£¬-4£¬13£¬-5£¬-2)

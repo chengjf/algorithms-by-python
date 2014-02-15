@@ -1,0 +1,1 @@
+2го	Solve the 8-Queen problem using back-tracking algorithm.

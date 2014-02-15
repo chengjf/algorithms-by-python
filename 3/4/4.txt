@@ -1,0 +1,3 @@
+4£®	All-pairs shortest paths. 
+The adjacency matrix is as same as that of problem 3.
+(Use Floyd or Johnson¡¯s algorithm)

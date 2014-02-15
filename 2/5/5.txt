@@ -1,0 +1,7 @@
+5го	Shortest path in multistage graphs.
+ Find the shortest path from 0 to 15 for the following graph.
+A multistage graph is a graph (1) G=(V,E) with V partitioned 
+into K >= 2 disjoint subsets such that if (a,b) is in E,
+ then a is in Vi , and b is in Vi+1 for some subsets
+ in the partition; and (2) | V1 | = | VK | = 1.
+ 
